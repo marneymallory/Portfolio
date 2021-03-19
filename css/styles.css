@@ -3,13 +3,6 @@ body {
   font-family: Georgia;
   background-color: rgb(236, 181, 40);
 }
-}
-h2 {
-font-weight: bold;
-color:blue;
-font-style: italic;
-}
-
 .border {
   border: 10px solid rgb(58, 18, 43);
 }
