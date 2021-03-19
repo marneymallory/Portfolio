@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  font-family: Georgia;
+  background-color: rgb(236, 181, 40);
+}
+}
+h2 {
+font-weight: bold;
+color:blue;
+font-style: italic;
+}
+
+.border {
+  border: 10px solid rgb(58, 18, 43);
+}
+
+.column {
+  width: 33%;
+  float: left;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
