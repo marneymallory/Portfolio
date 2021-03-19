@@ -22,10 +22,10 @@ Double click 'index.html' to open it in your web browser
 Clone this repository onto your computer: git clone {PUT_REPO_HERE}
 Navigate into the 'friday-project' directory, and open in Visual Studio Code or preferred text editor code .
 Open 'index.html' in Chrome or preferred browser
-To see my live website go to {GH_PAGES_LINK_HERE}!
+To see my live website go to https://github.com/marneymallory/friday-project.git 
 
 ### Known Bugs:
-- 'skills' section not perfectly centered.
+- 'skills' and 'hobbies and interests' sections not perfectly centered.
 
 ### Support and contact details:
 Please reach out through my GitHub account.
