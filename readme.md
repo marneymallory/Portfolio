@@ -19,7 +19,7 @@ Open the project folder.
 Double click 'index.html' to open it in your web browser
 
 ### Open via Bash/GitBash:
-Clone this repository onto your computer: git clone git@github.com:marneymallory/friday-project.git
+Clone this repository onto your computer: git clone `git@github.com:marneymallory/friday-project.git`
 Navigate into the 'friday-project' directory, and open in Visual Studio Code or preferred text editor code .
 Open 'index.html' in Chrome or preferred browser
 To see my live website go to https://marneymallory.github.io/friday-project/)
